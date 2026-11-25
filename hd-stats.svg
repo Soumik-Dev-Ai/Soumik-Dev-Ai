@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 28" width="620">
-<defs><style>
-@media(prefers-color-scheme:dark){.t{fill:#c9d1d9}.l{stroke:#30363d}}
-@media(prefers-color-scheme:light){.t{fill:#1f2328}.l{stroke:#d0d7de}}
-</style></defs>
-<text class="t" x="0" y="16" font-family="JetBrains Mono,monospace" font-size="14" font-weight="600">stats</text>
-<line class="l" x1="0" y1="27" x2="620" y2="27" stroke-width="1"/>
-</svg>
