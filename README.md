@@ -4,7 +4,6 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[portfolio](https://github.com/Soumik-Dev-Ai/soumik-portfolio) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/soumik-dey-30496a202/) &nbsp;·&nbsp;
 [email](mailto:soumikdey666@gmail.com)
 
@@ -12,38 +11,51 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Soumik Dey. SDE &amp; AI Engineer Enthusiast, Kolkata.<br>
-> Build fast, ship real, integrate AI where it matters.
+> Soumik Dey. SDE &amp; AI Engineer, Kolkata.<br>
+> Small sharp tools over big vague ideas — ship fast, test on real users, kill what doesn't work.
 
-Full-stack developer who wires Google Gemini into apps that people actually use.<br>
-Currently building AI-powered tools — a code reviewer that catches what linters<br>
-miss, and a trip planner that thinks for you. MERN stack is home base; React +<br>
-Tailwind + Firebase for speed, Node + Express + MongoDB for the heavy lifting.
+I build multi-agent AI systems and full-stack platforms that solve hard problems.<br>
+Autonomous code-gen frameworks with self-correcting agent loops, clinical triage<br>
+platforms that run offline in rural India, decentralized grid controllers with<br>
+C++ tick engines. TypeScript + React for the frontend, Python + FastAPI +<br>
+Postgres for the heavy lifting, and LLMs wired into everything that matters.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>javascript &nbsp; react &nbsp; node &nbsp; express &nbsp; mongodb &nbsp; tailwind &nbsp; firebase &nbsp; gemini-ai &nbsp; redux &nbsp; vite &nbsp; git</samp>
+<samp>typescript &nbsp; python &nbsp; javascript &nbsp; c++ &nbsp; react 19 &nbsp; next.js 16 &nbsp; fastapi &nbsp; node &nbsp; postgres &nbsp; supabase &nbsp; redis &nbsp; tailwind &nbsp; three.js &nbsp; faiss &nbsp; docker &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[AI-Powered-Code-Reviewer](https://github.com/Soumik-Dev-Ai/AI-Powered-Code-Reviewer)** &nbsp;·&nbsp; <samp>react, express, gemini api</samp><br>
-Paste code, get an AI review. Gemini-powered backend catches bugs, style issues,<br>
-and anti-patterns with syntax-highlighted diffs and markdown feedback.
+**[Swasthya-Setu-Ai](https://github.com/Soumik-Dev-Ai/Swasthya-Setu-Ai)** &nbsp;·&nbsp; <samp>react 19, fastapi, pgvector, sqlalchemy, tailwind</samp><br>
+Rural clinical triage platform. WHO ETAT emergency red-flags in &lt;1s, hybrid<br>
+RAG over IMCI/IPHS guidelines, PM-JAY cost lookup, offline-first IndexedDB<br>
+queueing for ASHA field workers. 220 unit tests, Neon Serverless Postgres.
 
-**[AI-Trip-Planner](https://github.com/Soumik-Dev-Ai/AI-Trip-Planner)** &nbsp;·&nbsp; <samp>react, tailwind, firebase, gemini api, google places</samp><br>
-Describe a trip and get a full AI-generated itinerary with real places, maps,<br>
-and hotel picks. Google OAuth login, Firestore persistence, Places API photos.
+**[sentinel-ai](https://github.com/Soumik-Dev-Ai/sentinel-ai)** &nbsp;·&nbsp; <samp>python, fastapi, react 19, faiss, openai/anthropic/gemini</samp><br>
+Autonomous self-correcting multi-agent code generation platform. Tree-of-Thought<br>
+planning, LLM-as-a-Judge semantic auditing, sandboxed polyglot compilation<br>
+(Python, Go, Rust, C, C++, JS), FAISS RAG vector memory, and adaptive<br>
+retry routing. Live on Vercel + Hugging Face ZeroGPU.
 
-**[StudyNotion](https://github.com/Soumik-Dev-Ai/StudyNotion)** &nbsp;·&nbsp; <samp>mern, redux, razorpay, cloudinary</samp><br>
-Full-stack ed-tech platform. Course creation, video lectures, payments via<br>
-Razorpay, OTP auth, Cloudinary uploads, and analytics dashboards with Chart.js.
+**[Hospital-Booking-System](https://github.com/Soumik-Dev-Ai/Hospital-Booking-System)** &nbsp;·&nbsp; <samp>next.js 16, react 19, fastapi, supabase, redis, drizzle</samp><br>
+Alder &amp; Sage — autonomous concierge medical clinic. 4-portal architecture<br>
+(patient, doctor, admin, public), multi-LLM triage with prompt-injection<br>
+firewall (OpenRouter → Groq → Cerebras fallback), cron enforcement engine,<br>
+Google Sheets/Gmail/Calendly sync, arq job queue with Redis.
 
-**[Netflix-Clone](https://github.com/Soumik-Dev-Ai/Netflix-Clone)** &nbsp;·&nbsp; <samp>react, firebase, tmdb api</samp><br>
-Pixel-faithful Netflix UI with real movie data from TMDB, Firebase auth,<br>
-Firestore watchlists, and PWA support.
+**[linkedin-triage](https://github.com/Soumik-Dev-Ai/linkedin-triage)** &nbsp;·&nbsp; <samp>next.js 16, react 19, three.js, framer-motion</samp><br>
+AI outreach &amp; candidate filtering SaaS. Multi-LLM neural cascade routing<br>
+simple tasks to Llama 3.1 8B via Groq and complex reasoning to Gemini 2.0<br>
+Flash. Zero-retention in-memory DOM parsing, Chrome extension companion.
 
-**[To-do-list](https://github.com/Soumik-Dev-Ai/To-do-list)** &nbsp;·&nbsp; <samp>javascript</samp><br>
-Clean task manager — vanilla JS, DOM manipulation, local storage, zero deps.
+**[eco-node-ai](https://github.com/Soumik-Dev-Ai/eco-node-ai)** &nbsp;·&nbsp; <samp>python, flask, c++, socket.io, numpy</samp><br>
+Decentralized P2P multi-agent microgrid controller. C++ tick engine for<br>
+low-latency simulation, MARL/NEAT-style configs, custom Byzantine Fault<br>
+Tolerant consensus protocol. Real-time Socket.IO dashboard.
+
+**[websocket-chat](https://github.com/Soumik-Dev-Ai/websocket-chat)** &nbsp;·&nbsp; <samp>react 19, fastapi, sqlalchemy, tailwind</samp><br>
+Full-stack real-time chat. Async WebSocket connection manager, Alembic<br>
+migrations, group conversations, read receipts, REST API for everything else.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
