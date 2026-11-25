@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-USER = os.environ.get("GITHUB_USER", "Hack-master22")
+USER = os.environ.get("GITHUB_USER", "Soumik-Dev-Ai")
 API = "https://api.github.com/graphql"
 OUT = Path(__file__).parent.parent
 W = 620

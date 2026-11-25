@@ -29,7 +29,7 @@ jobs:
       - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: Hack-master22
+          GITHUB_USER: Soumik-Dev-Ai
         run: python scripts/generate_stats.py
 
       - name: Commit if changed

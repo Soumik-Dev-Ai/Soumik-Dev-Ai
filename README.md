@@ -4,35 +4,46 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[soumik-portfolio](https://github.com/Hack-master22/soumik-portfolio) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/soumikdey/) &nbsp;·&nbsp;
+[portfolio](https://github.com/Soumik-Dev-Ai/soumik-portfolio) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/soumik-dey-30496a202/) &nbsp;·&nbsp;
 [email](mailto:soumikdey666@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Soumik Dey. Developer, builder, speaker.<br>
-> Ship fast, learn faster, break nothing that matters.
+> Soumik Dey. SDE &amp; AI Engineer Enthusiast, Kolkata.<br>
+> Build fast, ship real, integrate AI where it matters.
 
-I build web apps and tools that solve real problems. Currently deep into<br>
-frontend craft — JavaScript, CSS, responsive design — and always looking<br>
-for the next thing to ship.
+Full-stack developer who wires Google Gemini into apps that people actually use.<br>
+Currently building AI-powered tools — a code reviewer that catches what linters<br>
+miss, and a trip planner that thinks for you. MERN stack is home base; React +<br>
+Tailwind + Firebase for speed, Node + Express + MongoDB for the heavy lifting.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>javascript &nbsp; css &nbsp; html &nbsp; react &nbsp; node &nbsp; python &nbsp; git &nbsp; github &nbsp; vscode</samp>
+<samp>javascript &nbsp; react &nbsp; node &nbsp; express &nbsp; mongodb &nbsp; tailwind &nbsp; firebase &nbsp; gemini-ai &nbsp; redux &nbsp; vite &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[soumik-portfolio](https://github.com/Hack-master22/soumik-portfolio)** &nbsp;·&nbsp; <samp>javascript</samp><br>
-Personal portfolio site — the live version of everything I build and believe in.
+**[AI-Powered-Code-Reviewer](https://github.com/Soumik-Dev-Ai/AI-Powered-Code-Reviewer)** &nbsp;·&nbsp; <samp>react, express, gemini api</samp><br>
+Paste code, get an AI review. Gemini-powered backend catches bugs, style issues,<br>
+and anti-patterns with syntax-highlighted diffs and markdown feedback.
 
-**[My-portfolio](https://github.com/Hack-master22/My-portfolio)** &nbsp;·&nbsp; <samp>css, html</samp><br>
-Earlier portfolio iteration. Clean layout, pure CSS, no frameworks.
+**[AI-Trip-Planner](https://github.com/Soumik-Dev-Ai/AI-Trip-Planner)** &nbsp;·&nbsp; <samp>react, tailwind, firebase, gemini api, google places</samp><br>
+Describe a trip and get a full AI-generated itinerary with real places, maps,<br>
+and hotel picks. Google OAuth login, Firestore persistence, Places API photos.
 
-**[To-do-list](https://github.com/Hack-master22/To-do-list)** &nbsp;·&nbsp; <samp>javascript</samp><br>
-Minimal task manager — DOM manipulation, local storage, zero dependencies.
+**[StudyNotion](https://github.com/Soumik-Dev-Ai/StudyNotion)** &nbsp;·&nbsp; <samp>mern, redux, razorpay, cloudinary</samp><br>
+Full-stack ed-tech platform. Course creation, video lectures, payments via<br>
+Razorpay, OTP auth, Cloudinary uploads, and analytics dashboards with Chart.js.
+
+**[Netflix-Clone](https://github.com/Soumik-Dev-Ai/Netflix-Clone)** &nbsp;·&nbsp; <samp>react, firebase, tmdb api</samp><br>
+Pixel-faithful Netflix UI with real movie data from TMDB, Firebase auth,<br>
+Firestore watchlists, and PWA support.
+
+**[To-do-list](https://github.com/Soumik-Dev-Ai/To-do-list)** &nbsp;·&nbsp; <samp>javascript</samp><br>
+Clean task manager — vanilla JS, DOM manipulation, local storage, zero deps.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -46,5 +57,5 @@ Minimal task manager — DOM manipulation, local storage, zero dependencies.
 
 <img src="./hd-connect.svg" width="620" alt="connect"/>
 
-Open to collaborations, hackathons, and interesting conversations.<br>
-Reach me at [soumikdey666@gmail.com](mailto:soumikdey666@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/soumikdey/).
+Open to SDE roles, AI projects, hackathons, and interesting collaborations.<br>
+Reach me at [soumikdey666@gmail.com](mailto:soumikdey666@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/soumik-dey-30496a202/).
