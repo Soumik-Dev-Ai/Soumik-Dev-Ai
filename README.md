@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumik-Dev-Ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="320" />
-
 ### 🧑‍💻 About Me
 
 - 🔭 Building **autonomous AI agents** that write, test & self-correct code
@@ -19,7 +17,9 @@
 - 🌱 Currently exploring **System Design** & **Distributed Systems**
 - 💬 Ask me about `React` `FastAPI` `Multi-Agent AI` `TypeScript`
 
-<br clear="right"/>
+<div align="center">
+  <img src="./ascii.svg" width="460" alt="Soumik Dey" />
+</div>
 
 ---
 
@@ -63,6 +63,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
+#### Most Used Languages
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soumik-Dev-Ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
+
 </div>
 
 ---
@@ -74,7 +79,7 @@
 <td width="50%">
 
 **[🏥 Swasthya-Setu-Ai](https://github.com/Soumik-Dev-Ai/Swasthya-Setu-Ai)**<br>
-Rural clinical triage — WHO ETAT red-flags in <1s, hybrid RAG over IMCI guidelines, offline-first ASHA field portal. 220 tests.<br>
+Rural clinical triage — WHO ETAT red-flags in &lt;1s, hybrid RAG over IMCI guidelines, offline-first ASHA field portal. 220 tests.<br>
 `React 19` `FastAPI` `pgvector` `Tailwind`
 
 </td>
@@ -90,7 +95,7 @@ Autonomous multi-agent code-gen. Tree-of-Thought planning, LLM-as-a-Judge auditi
 <td width="50%">
 
 **[🏨 Hospital-Booking-System](https://github.com/Soumik-Dev-Ai/Hospital-Booking-System)**<br>
-Alder & Sage — 4-portal clinic platform. Multi-LLM triage with prompt-injection firewall, cron enforcement, Gmail/Sheets/Calendly sync.<br>
+Alder &amp; Sage — 4-portal clinic platform. Multi-LLM triage with prompt-injection firewall, cron enforcement, Gmail/Sheets/Calendly sync.<br>
 `Next.js 16` `FastAPI` `Supabase` `Redis`
 
 </td>
@@ -125,22 +130,14 @@ Full-stack real-time chat. Async WebSocket manager, Alembic migrations, group co
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumik-Dev-Ai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumik-Dev-Ai&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img height="175" src="https://github-readme-stats.shion.dev/api?username=Soumik-Dev-Ai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=Soumik-Dev-Ai&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumik-Dev-Ai&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumik-Dev-Ai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumik-Dev-Ai&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -167,7 +164,7 @@ Full-stack real-time chat. Async WebSocket manager, Alembic migrations, group co
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumik-Dev-Ai&style=for-the-badge&color=58A6FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Soumik-Dev-Ai&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
